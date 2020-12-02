@@ -59,3 +59,6 @@ def duyguozturk():
 def mehmet_tan():
 	print("It is always darkest before the dawn.")
 
+def ahmet_yılmaz():
+	print(hello)
+
